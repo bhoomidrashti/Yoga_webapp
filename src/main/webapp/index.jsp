@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yoga Online Hola Ppl</title>
+    <title>Yoga Online.</title>
     <style>
         body {
             font-family: sans-serif;
